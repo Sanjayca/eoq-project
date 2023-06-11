@@ -1,0 +1,91 @@
+/* Styling for the main container */
+.container {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Styling for the input section */
+  .input-section {
+    margin-bottom: 20px;
+  }
+  
+  .input-section h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .input-section label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .input-section input {
+    width: 100px;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  /* Styling for the visualization section */
+  .visualization-section {
+    margin-bottom: 20px;
+  }
+  
+  .visualization-section h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .visualization-section h3 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .visualization-section table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .visualization-section th,
+  .visualization-section td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .visualization-section th {
+    background-color: #f2f2f2;
+  }
+  
+  /* Styling for the LineChart */
+  .line-chart {
+    margin-top: 10px;
+  }
+  
+  /* Styling for the estimate section */
+  .estimate-section {
+    margin-bottom: 20px;
+  }
+  
+  .estimate-section h3 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .estimate-section table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .estimate-section th,
+  .estimate-section td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .estimate-section th {
+    background-color: #f2f2f2;
+  }
+  
